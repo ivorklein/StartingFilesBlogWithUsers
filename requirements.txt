@@ -9,6 +9,7 @@ Flask-Gravatar
 Flask-Login
 Flask-SQLAlchemy
 Flask-WTF
+gunicorn == 20.1.0
 idna
 itsdangerous
 Jinja2
